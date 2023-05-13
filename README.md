@@ -23,7 +23,7 @@
 
 ## :three:  *Project Demonstration:*
 ![Главное окно](https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issue-1708747591)
-<a href = "https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issue-1708747591"  target="_blank" ><img src = "12Zuzu12/Current-Converter-App-React/issues/1#issue-1708747591" width=100%  height=100%></a>
+<a href = "https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issue-1708747591"  target="_blank" ><img src = "https://photos.google.com/photo/AF1QipNvrPOA0tgOFwx04su_yMwcgAHX9m2mngN5RzPE" width=100%  height=100%></a>
 
 ## :four:  *Project Demonstration with nested files:*
 
