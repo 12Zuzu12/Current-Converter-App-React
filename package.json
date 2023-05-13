@@ -1,0 +1,8 @@
+{
+  "name": "Myprogect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:12Zuzu12/Current-Converter-App-React.git",
+  "author": "Radgab <radgab712@gmail.com>",
+  "license": "MIT"
+}
