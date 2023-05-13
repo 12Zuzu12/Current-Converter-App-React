@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.logo {
+  color: #fff;
+  font-size: 60px;
+}
+
+.ant-input {
+  height: 31px;
+  width: 150px;
+}
+.ant-select {
+  margin-bottom: 20px;
+  font-size: 60px;
+}
+.footer{
+width: 100%; 
+height: 64px;
+font-size: 30px;
+text-align: center;
+background-color: #16223b;
+color: #fff;
+padding: 0;
+
+}
