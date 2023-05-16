@@ -23,10 +23,10 @@
 
 ## :three:  *Главное окно проекта*
 
-<a href = "https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issue-1708747591"  target="_blank" ><img src = "" alt='ссылка на изображение проекта' width=100%  height=100%></a>
+<a href = "https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issue-1708747591"  target="_blank" ></a>
 
 ## :four:  *Второе окно проекта*
 
-<a href = "https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issuecomment-1546756676"  target="_blank" ><img src = ""  alt='ссылка на изображение проекта' width=100%  height=100%></a>
+<a href = "https://github.com/12Zuzu12/Current-Converter-App-React/issues/1#issuecomment-1546756676"  target="_blank" ></a>
 
 
