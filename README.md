@@ -27,6 +27,6 @@
 
 ## :four:  *Второе окно проекта*
 
-![Главная станица](https://github.com/12Zuzu12/Current-Converter-App-React/blob/master/Peg1.PNG)
+![Страница конвертора](https://github.com/12Zuzu12/Current-Converter-App-React/blob/master/Peg2.PNG)
 
 
